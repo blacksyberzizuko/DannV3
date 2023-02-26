@@ -185,11 +185,11 @@ conn.sendButton(
 )
 
 // example 
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
+conn.sendButton(m.chat, 'Hello world!', 'DannOfficial', null, [
       ['Hello', 'hello'], ['Bye', 'bye']
 ])
 // example button location
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
+conn.sendButton(m.chat, 'Hello world!', 'DannOfficial', 'https://github.com/DannOfficial', 
       [['Hello', 'hello'], ['Bye', 'bye']], 
       null, { asLocation: true }
 )
@@ -213,13 +213,13 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 > You can change in `config.js`, on global.owner. make sure you use correct syntax.
 ```js
 global.owner = [
-  ['6281319944687', 'BG', true]
+  ['6283137550315', 'BG', true]
 ]
 ```
-> First argument on array is number like `6281319944687`, second argument is name like `BG` (if this argument pass, if using `owner` command, this number will send as owner), third argument is developer like `true` (if this argument pass, if there have plugins error (not syntax error) the error will send to developer)
+> First argument on array is number like `6283137550315`, second argument is name like `BG` (if this argument pass, if using `owner` command, this number will send as owner), third argument is developer like `true` (if this argument pass, if there have plugins error (not syntax error) the error will send to developer)
 ---------
 
-### want to contribute?
+### Want to Contributor?
 1. fork this repository
 2. Change/edit/create what you want. for example you can add features, fix bug, etc
 3. **test** before making a pull req!!
@@ -242,7 +242,7 @@ global.owner = [
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 
 #### Contributor
-[![DannOfficial](https://github.com/DannOfficial.png?size100](https://github.com/DannOfficial)
+[![DannOfficial](https://github.com/DannOfficial.png?size100)](https://github.com/DannOfficial)
 [![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz)
 [![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
 [![BlueShiYT](https://github.com/BlueShiYT.png?size=100)](https://github.com/BlueShiYT)
