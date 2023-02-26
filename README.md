@@ -9,8 +9,6 @@
 <a href="https://github.com/DannOfficial/DannV3/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BochilGaming/games-wabot?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/DannOfficial/DannV3/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
-## Note:
-**Hapus Session ( Dann.data.json ) Untuk bisa Scan!
 ## Group Diskusi
 [![Join](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GVwpKf83s42D1CnIfDW19G) 
 **No Bot**
@@ -25,7 +23,7 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-### FOR TERMUX USER
+### Termux User
 1. Type mentioned below given commands one by one in Termux.
 ```sh
 $ pkg upgrade && pkg update
@@ -52,7 +50,7 @@ $ yarn install
 ```
 ---------
 
-## INSTALL ON TERMUX WITH UBUNTU
+## Install Termux Ubuntu
 
 [ INSTALLING UBUNTU ]
 
@@ -244,6 +242,7 @@ global.owner = [
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 
 #### Contributor
+[![DannOfficial](https://github.com/DannOfficial.png?size100](https://github.com/DannOfficial)
 [![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz)
 [![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
 [![BlueShiYT](https://github.com/BlueShiYT.png?size=100)](https://github.com/BlueShiYT)
