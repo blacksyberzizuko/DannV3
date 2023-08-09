@@ -9,9 +9,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     let wktuwib = `${wibh}:${wibm}:${wibs}`
 // Owner
 global.owner = [
-  ['6283137550315'],
-  ['6283137550315'],
-  ['6283137550315', 'DannLonely', 'danigtps@gmail.com', true]
+  ['94770378874'],
+  ['94770378874'],
+  ['94770378874', 'MR ZIZUKO', 'SAKURA', true]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = ['12405182763'] // Premium user has unlimited limit
@@ -46,7 +46,7 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'Dann-MD'
+  var sticker_name = 'SAKURA-MD'
   var sticker_author = 'Dann Official'
 } else {
   var sticker_name = stickerpack.spackname
@@ -86,12 +86,12 @@ global.useMulti = true
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '2023 © Dann-MD'
-global.wm2 = 'Dann-MD Rpg PlayGround'
+global.wm = '2023 © SAKURA-MD'
+global.wm2 = 'SAKURA-MD Rpg PlayGround'
 global.bottime = `Time: ${wktuwib}`
 global.titlebot = `${global.wm}`
 global.author = 'DannXD' 
-global.packname = 'Dann-MD\n\nOwner: +62 831-3755-0315'
+global.packname = 'SAKURA-MD\n\nOwner:+94770378874'
 global.danied = '✘ 𝗘𝗥𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Desember 12 2023'
 global.nomorown = '6283137550315'
